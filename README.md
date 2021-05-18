@@ -1,1 +1,1 @@
-# AI-text-generator-on-the-top-of-GPT2
+Different pytohn projects built using modern day libraries
